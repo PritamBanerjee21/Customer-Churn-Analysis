@@ -2,6 +2,8 @@
 
 This repository contains a comprehensive project on customer churn analysis for a telecom service provider. The project includes data cleaning, visualization, and predictive modeling to identify potential churners among newly joined customers. The final results are presented through an interactive PowerBI dashboard available for public access.
 
+Link to the published dashboard :- https://app.powerbi.com/view?r=eyJrIjoiM2YxYWUwNzYtZWIwOS00Mjk0LWJmZGEtMDkyYzBiMzhjZWIzIiwidCI6IjllZGExZmIzLWZlMjgtNDFlNi05OTZjLWM3YWVhOGQ5N2YxMCJ9
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
@@ -61,7 +63,6 @@ Predictions were made on the `joined_view` dataset using the trained model. The 
 
 A second PowerBI dashboard was created to analyze the customers predicted to churn. This dashboard provides insights specifically for the predicted churners.
 
-Link to the published dashboard :- https://app.powerbi.com/view?r=eyJrIjoiM2YxYWUwNzYtZWIwOS00Mjk0LWJmZGEtMDkyYzBiMzhjZWIzIiwidCI6IjllZGExZmIzLWZlMjgtNDFlNi05OTZjLWM3YWVhOGQ5N2YxMCJ9
 
 ## Getting Started
 
