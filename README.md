@@ -20,10 +20,10 @@ Link to the published dashboard :- https://app.powerbi.com/view?r=eyJrIjoiM2YxYW
 
 This project aims to analyze and predict customer churn for a telecom service provider. The analysis includes:
 
-- Loading and cleaning customer data.
-- Creating views for newly joined and churned customers.
+- Loading and cleaning customer data with MySQL.
+- Creating views for newly joined and churned customers in MySQL.
 - Developing interactive PowerBI dashboards for churn analysis.
-- Building a machine learning model to predict potential churners.
+- Building a machine learning model to predict potential churners among the newly joined customers.
 - Publishing the results for public access.
 
 ## Data Loading and Cleaning
